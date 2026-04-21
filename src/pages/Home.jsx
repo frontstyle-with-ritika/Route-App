@@ -15,7 +15,7 @@ function Home() {
         {/*Main Heading*/}
         <h1 className="tect-5xl font-extrabold text-light leading-tight mb-5">
             Welcome To {' '}
-            <span className="text-accent">RouteApp</span>
+            <span className="text-accent">Tech Space </span>
         </h1>
 
         {/*Sub Heading*/}
