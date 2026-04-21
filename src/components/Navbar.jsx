@@ -16,7 +16,7 @@ function Navbar(){
                 <NavLink
                 to="/" className = "no-underline">
                     <h1 className = "text-xl font-bold text-light tracking-wide">
-                        🧭 RouteApp
+                        Tech Space
                     </h1>
                 </NavLink>
 
